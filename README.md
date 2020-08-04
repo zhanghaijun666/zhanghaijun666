@@ -1,4 +1,4 @@
-![划水选手](https://github-readme-stats.vercel.app/api?username=zhanghaijun666&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)
+[![划水选手](https://github-readme-stats.vercel.app/api?username=zhanghaijun666&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/zhanghaijun666)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaijun666&repo=learn-java)](https://github.com/zhanghaijun666/learn-java)
 
