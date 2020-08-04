@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![划水选手](https://github-readme-stats.vercel.app/api?username=zhanghaijun666&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaijun666&repo=learn-java)](https://github.com/zhanghaijun666/learn-java)
@@ -9,6 +7,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaijun666&repo=blog-vue)](https://github.com/zhanghaijun666/blog-vue)
 
 <!--
+### Hi there 👋
 **zhanghaijun666/zhanghaijun666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
