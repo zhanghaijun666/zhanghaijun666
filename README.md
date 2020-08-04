@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhanghaijun666)](https://github.com/zhanghaijun666/zhanghaijun666)
+![划水选手](https://github-readme-stats.vercel.app/api?username=zhanghaijun666&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaijun666&repo=learn-java)](https://github.com/zhanghaijun666/learn-java)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaijun666&repo=blog-server)](https://github.com/zhanghaijun666/blog-server)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaijun666&repo=blog-vue)](https://github.com/zhanghaijun666/blog-vue)
 
 <!--
 **zhanghaijun666/zhanghaijun666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md
 -->
