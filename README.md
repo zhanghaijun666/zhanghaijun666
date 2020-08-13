@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 -->
