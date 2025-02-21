@@ -70,7 +70,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
 
-- [北京天信瑞安信息技术有限公司](https://www.bjtxra.com) &emsp; 📌 2023-06-19 —— 2024-01-19
+- [北京天信瑞安信息技术有限公司](https://www.bjtxra.com) &emsp; 📌 2017-06-25 —— 2024-06-29
 
   - 工作岗位：软件全栈工程师
   - 工作内容：产品的开发、维护、调研。
