@@ -27,7 +27,7 @@
     <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=zhanghaijun666&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
   </div>
   -->
@@ -107,8 +107,14 @@
 
 </div>
 
-
-## 🛠️ 技能和工具
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
+</picture>
+<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -120,29 +126,19 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## 📊 GitHub 统计
-
-![张海军的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=zhanghaijun666&show_icons=true&theme=radical)
-
-
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-</picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhanghaijun666&show_icons=true&theme=radical" alt="zhanghaijun666's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghaijun666&layout=compact&theme=radical" alt="zhanghaijun666's top languages" />
+</div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zhanghaijun666&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zhanghaijun666&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhanghaijun666&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
 </table>
@@ -161,7 +157,7 @@
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
   
 <!-- GitHub 奖杯🏆 -->
-<div><img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+<div><img src="https://github-profile-trophy.vercel.app/?username=zhanghaijun666&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 </div>
 
