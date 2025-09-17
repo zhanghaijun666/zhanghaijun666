@@ -60,28 +60,6 @@
 
 </td></tr>
 
-<tr><td>
-
-### 🏢 Work Experience
-
-<img align="right" width="88" src="https://zhanghaijun666.github.io/imeik.svg" />
-
-- [爱美客技术发展股份有限公司](https://www.imeik.net) &emsp; 📌 2024-06-30 —— 2025
-
-  - 工作岗位：软件研发工程师
-  - 工作内容：软件开发与维护
-
-<img align="right" width="88" src="https://zhanghaijun666.github.io/bjtxra.png" />
-
-- [北京天信瑞安信息技术有限公司](https://www.bjtxra.com) &emsp; 📌 2017-06-25 —— 2024-06-29
-
-  - 工作岗位：软件全栈工程师
-  - 工作内容：产品的开发、维护、调研。
-
-</td></tr>
-
-<tr><td>
-
 ### 📃 Recent Blog
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
